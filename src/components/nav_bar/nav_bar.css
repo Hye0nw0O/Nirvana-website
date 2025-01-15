@@ -1,0 +1,39 @@
+/* nav bar */
+.nav_bar {
+    position: relative;
+    width: 100%;
+    height: 75px;
+    background: #000000;
+
+    font-family: "Karantina";
+}
+
+.join,
+.introduce,
+.member {
+    font-family: 'Karantina', sans-serif;
+    margin-right: 2%;
+    font-size: 2.7vw;
+    line-height: 66px;
+    color: #FFFFFF;
+    position: absolute;
+    cursor: pointer;
+    height: 100%;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.join {
+    right: calc(5% + 11.5%);
+}
+
+.introduce {
+    right: 5%;
+    transform: translateX(-50%);
+}
+
+.member {
+    right: calc(5% - 3%);
+}

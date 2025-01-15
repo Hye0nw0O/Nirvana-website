@@ -1,0 +1,52 @@
+/* main content */
+.main_cont {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    font-family: "DelaGothicOne";
+}
+
+/* main image */
+.main_image {
+    background: url('../../assets/images/main_img/nirvana_main.png');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    position: relative;
+    width: 100%;
+    min-height: 100vh;
+    /* height: 1080px; */
+}
+
+/* main msg */
+.main_msg {
+    position: relative;
+    width: 100%;
+    font-size: 4.5vw;
+    line-height: 75px;
+    text-align: center;
+    color: #FFFFFF;
+    /* font-size: 120px; */
+    /* height: 350px; */
+}
+
+.main_discription {
+    position: relative;
+    width: 100%;
+    font-size: 1.28vw;
+    line-height: 70px;
+    text-align: center;
+    color: #FFFFFF;
+    /* height: 230px; */
+    /* font-size: 35px; */
+}
+
+.down_arrow {
+    background: url('../../assets/images/icons/down_arrow.png') no-repeat;
+    background-size: contain;
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    top: 85%;
+    left: 50%;
+    cursor: pointer;
+}

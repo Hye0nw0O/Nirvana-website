@@ -1,0 +1,11 @@
+@font-face {
+    font-family: "DelaGothicOne";
+    font-style: normal;
+    src: url("./DelaGothicOne-Regular.woff") format("woff");
+}
+
+@font-face {
+    font-family: "Karantina";
+    font-style: normal;
+    src: url("./Karantina-Regular.woff") format("woff");
+}
