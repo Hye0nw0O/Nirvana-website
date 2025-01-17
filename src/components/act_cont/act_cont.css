@@ -42,8 +42,8 @@
 /* act images */
 .act_1, .act_2, .act_3, .act_4, .act_5, .act_6 {
     position: relative;
-    width: 300px;
-    height: 300px;
+    width: 20vw;
+    height: 20vw;
     background-position: center;
 }
 
