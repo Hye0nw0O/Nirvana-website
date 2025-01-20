@@ -76,3 +76,9 @@
     background: url('../../assets/images/act_img/act_6.png') no-repeat;
     background-size: contain;
 }
+
+/* 모바일용 css 작성 */
+@media all and (max-width: 960px) {
+    
+
+}

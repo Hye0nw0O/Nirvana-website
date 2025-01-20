@@ -37,3 +37,9 @@
 .member {
     right: calc(5% - 3%);
 }
+
+/* 모바일용 css 작성 */
+@media all and (max-width: 960px) {
+    
+
+}

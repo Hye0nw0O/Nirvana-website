@@ -50,3 +50,8 @@
     left: 50%;
     cursor: pointer;
 }
+
+/* 모바일용 css 작성 */
+@media all and (max-width: 960px) {
+    
+}

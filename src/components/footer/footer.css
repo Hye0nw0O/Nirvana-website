@@ -31,7 +31,7 @@
     font-style: normal;
     font-weight: 400;
     /* font-size: 50px; */
-    font-size: 4.3vw;
+    font-size: 3.8vw;
     line-height: 66px;
     color: #FFFFFF;
 
@@ -73,4 +73,9 @@
     background: url('../../assets/images/icons/youtube.png') no-repeat;
     width: 33%;
     background-size: contain;
+}
+
+/* 모바일용 css 작성 */
+@media all and (max-width: 960px) {
+
 }
