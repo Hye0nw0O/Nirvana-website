@@ -75,7 +75,7 @@
     background-size: contain;
 }
 
-/* 모바일용 css 작성 */
+/* 모바일용 css 작성. max-width 960px로 테스트*/
 @media all and (max-width: 960px) {
-
+    
 }
